@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome%20to%20my%20github&fontSize=90)
 # :tada: 지속적인 성장을 하는 개발자가 되자 :tada:
