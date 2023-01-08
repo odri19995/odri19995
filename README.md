@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome%20to%20my%20github&fontSize=60)
 # :tada: 지속적인 성장을 하는 개발자가 되자 :tada:
+
+## Things I code with <br>
+![Python](https://img.shields.io/badge/Python-FF9A00?style=round-square&logo=Python&logoColor=white)
+
+
+
+
+## 🔭 I’m currently working on ... <br>
+![Java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white)
